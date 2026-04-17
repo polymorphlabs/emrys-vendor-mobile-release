@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Emrys Vendor</title>
+        <description>Most recent updates to Emrys Vendor</description>
+        <language>en</language>
+
+        <!-- macOS -->
+        <item>
+            <title>Version 1.0.0+1</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+1</sparkle:releaseNotesLink>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+1/emrys_vendor-prod-1.0.0+1-macos.dmg"
+                sparkle:edSignature="FFW73XQMyXTmalfZQykgZKF3NyP77Nb3YXPw4VrBM2bWkOCfAYWbvNe+oJzcq87+xwSGaOf58ScvDhdbJSrgCA=="
+                sparkle:os="macos"
+                length="51425420"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Windows -->
+        <item>
+            <title>Version 1.0.0+1</title>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+1</sparkle:releaseNotesLink>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile/releases/download/v1.0.0+1/emrys_vendor-prod-1.0.0+1-windows.exe"
+                sparkle:dsaSignature="REPLACE_WITH_WINDOWS_SIGNATURE"
+                sparkle:version="1.0.0+1"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
