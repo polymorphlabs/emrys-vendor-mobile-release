@@ -14,9 +14,9 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+2/emrys_vendor-prod-1.0.0+2-macos.dmg"
-                sparkle:edSignature="+MnX1VNavf7xYMbGYshjU/XVHq1sxUXjwRxKV76UBLezaeKtMclFnUXjdex5t2LdY69JarGE+xIndEAvK5kTDw=="
+                sparkle:edSignature="B6PLaaDY8JvYJqPNvsmXMmKh2BQpWDNNrvooDwp1ttnc+OtI6Zk1+pAPGa5ehGaxJRidWQ9E4Glmrpr/zNRjDA=="
                 sparkle:os="macos"
-                length="51425288"
+                length="51425312"
                 type="application/octet-stream" />
         </item>
 
