@@ -14,9 +14,9 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+2/emrys_vendor-prod-1.0.0+2-macos.dmg"
-                sparkle:edSignature="aOWb6uf72hJZDXfmAeUWCR+XRpkQCYOMo90lSXBQplWlfikfULVz1ymXPyY9CnFFZSTJqE5b/8QSn8dxmH2IBQ=="
+                sparkle:edSignature="rT8X0uSOvPOgyjm5lgbTHIJUVJZgPq36mTLS75C8Kzpmjb3NUuvsyGRYceQs08NtgcyybBe8uIOYgddm2jPhCw=="
                 sparkle:os="macos"
-                length="51412615"
+                length="51425299"
                 type="application/octet-stream" />
         </item>
 
@@ -26,11 +26,11 @@
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+2</sparkle:releaseNotesLink>
             <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/polymorphlabs/emrys-vendor-mobile/releases/download/v1.0.0+1/emrys_vendor-prod-1.0.0+1-windows.exe"
-                sparkle:dsaSignature="REPLACE_WITH_WINDOWS_SIGNATURE"
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+2/emrys_vendor-1.0.0+2-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHGPKonAkPGLkBHRQilVZmLNPv6eNZQNU/bPiNFECHQCsJsLBvIZrmnGQWkPo/b8Cue+GdxWAmnjfn0wX"
                 sparkle:version="1.0.0+1"
                 sparkle:os="windows"
-                length="0"
+                length="34076487"
                 type="application/octet-stream" />
         </item>
 
