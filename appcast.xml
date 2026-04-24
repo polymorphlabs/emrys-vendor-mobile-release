@@ -11,9 +11,9 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+2</sparkle:releaseNotesLink>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+2/emrys_vendor-prod-1.0.0+2-macos.dmg"
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-macos.dmg"
                 sparkle:edSignature="rT8X0uSOvPOgyjm5lgbTHIJUVJZgPq36mTLS75C8Kzpmjb3NUuvsyGRYceQs08NtgcyybBe8uIOYgddm2jPhCw=="
                 sparkle:os="macos"
                 length="51425299"
@@ -24,13 +24,13 @@
         <item>
             <title>Version 1.0.0+2</title>
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+2</sparkle:releaseNotesLink>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/download/v1.0.0+2/emrys_vendor-1.0.0+2-windows-setup.exe"
-                sparkle:dsaSignature="MDwCHAQyWC646/r5ysGZbEtpgJ3i4NvMpx9w7jo8C9ACHHdj3OzGGxBsxnqd9obaWkhcPGPTWW035rFU/Tk="
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows.exe"
+                sparkle:dsaSignature="MD0CHE1MkCmnvwKMgk5w5qTtKYalrXlgfUGyJMpfwjACHQCNDJ/n6Rlg98wooqXdkf/CqGPu5BbRWU0j6J2p"
                 sparkle:version="1.0.0+1"
                 sparkle:os="windows"
-                length="34102479"
+                length="34103891"
                 type="application/octet-stream" />
         </item>
 
