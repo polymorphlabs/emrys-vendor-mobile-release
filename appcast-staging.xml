@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Emrys Vendor (Windows staging)</title>
+        <description>Staging Windows updates for Emrys Vendor testers</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0+3</title>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+3</sparkle:releaseNotesLink>
+            <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows-staging.exe"
+                sparkle:dsaSignature="MDwCHHUA0Lq1U7TkeGk7uQHLOYwVRBoucHbOQJZ+0zECHEYXd563aRr8uLSkkYTBqHNrIM94miEoU4PGTTE="
+                sparkle:version="1.0.0+3"
+                sparkle:os="windows"
+                length="34181981"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
