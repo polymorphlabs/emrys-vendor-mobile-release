@@ -11,26 +11,28 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+3</sparkle:releaseNotesLink>
-            <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-macos.dmg"
-                sparkle:edSignature="rT8X0uSOvPOgyjm5lgbTHIJUVJZgPq36mTLS75C8Kzpmjb3NUuvsyGRYceQs08NtgcyybBe8uIOYgddm2jPhCw=="
+                sparkle:edSignature="nnqQWGqoQUqx1Cg7zLmQBRId+7ahlThaizZtKdPcyxTNLqPyfWERKxMufFDBfPW4XaiNLFT7MuEL/oTu/LM2BQ=="
                 sparkle:os="macos"
-                length="51425299"
+                length="52427657"
                 type="application/octet-stream" />
         </item>
 
         <!-- Windows -->
+        <!-- Staging Windows updates: separate feed `appcast-staging.xml` (same release repo) so
+             WinSparkle does not see two windows enclosures for the same app version. -->
         <item>
             <title>Version 1.0.0+3</title>
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+3</sparkle:releaseNotesLink>
-            <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows.exe"
-                sparkle:dsaSignature="MD4CHQCWmGoU1koUXvBT486gzj7/ROKLKsD8dVTcibwuAh0AjEdRPOkJ0uyTPUQ7H8dDuCDB7NDCCWzq8x/Aig=="
+                sparkle:dsaSignature="REPLACE_WITH_WINDOWS_SIGNATURE"
                 sparkle:version="1.0.0+1"
                 sparkle:os="windows"
-                length="34177802"
+                length="0"
                 type="application/octet-stream" />
         </item>
 
