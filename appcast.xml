@@ -7,16 +7,16 @@
 
         <!-- macOS -->
         <item>
-            <title>Version 1.0.0+9</title>
-            <sparkle:version>9</sparkle:version>
+            <title>Version 1.0.0+10</title>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+9</sparkle:releaseNotesLink>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+10</sparkle:releaseNotesLink>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-macos.dmg"
-                sparkle:edSignature="padjfcjB+KgBH07gOZ5vYBK06MdAQG1uwGl9CwKeabKLekwKAlAUJoyscX7gLIt4C/d+UoY7xKIOMYFLRKO4AQ=="
+                sparkle:edSignature="e+btSH+/2Ag3N4tp6JsA3UEDIvYGen8kOqw5WHcesxEgzqkv81uUN/glvfq+I1+9DtarlwGkSJSkS1YIZJorAQ=="
                 sparkle:os="macos"
-                length="52544146"
+                length="52543522"
                 type="application/octet-stream" />
         </item>
 
@@ -24,9 +24,9 @@
         <!-- Staging Windows updates: separate feed `appcast-staging.xml` (same release repo) so
              WinSparkle does not see two windows enclosures for the same app version. -->
         <item>
-            <title>Version 1.0.0+9</title>
-            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+9</sparkle:releaseNotesLink>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+            <title>Version 1.0.0+10</title>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+10</sparkle:releaseNotesLink>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows.exe"
                 sparkle:dsaSignature="REPLACE_WITH_WINDOWS_SIGNATURE"
