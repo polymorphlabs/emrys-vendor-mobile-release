@@ -10,10 +10,10 @@
             <pubDate>Wed, 1 Jul 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows-staging.exe"
-                sparkle:dsaSignature="MD0CHE6hSwxFs3z3JQLPXt2DuaOxg/ylEByX+oRR1M0CHQCVLgYw7zh38TELfum8TnWVeBWOjG6RCFabY+0O"
+                sparkle:dsaSignature="MDwCHH2UKEIZ1fzNGz73wlvkQtQLUeB61tHpapiNr10CHBqgRlotSol9tfOH+NZp3etrgzjf6gx53h1GXjg="
                 sparkle:version="1.0.0+11"
                 sparkle:os="windows"
-                length="34600354"
+                length="34601345"
                 type="application/octet-stream" />
         </item>
     </channel>
