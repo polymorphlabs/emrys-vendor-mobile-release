@@ -7,16 +7,16 @@
 
         <!-- macOS -->
         <item>
-            <title>Version 1.0.0+13</title>
-            <sparkle:version>13</sparkle:version>
+            <title>Version 1.0.0+14</title>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+13</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+14</sparkle:releaseNotesLink>
             <pubDate>Thu, 6 Aug 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-macos.dmg"
-                sparkle:edSignature="rT8X0uSOvPOgyjm5lgbTHIJUVJZgPq36mTLS75C8Kzpmjb3NUuvsyGRYceQs08NtgcyybBe8uIOYgddm2jPhCw=="
+                sparkle:edSignature="QOnJ37zwJoP6ILO9JfdZn0iJnYtpw6dDtVaLu5rFkL2jGAw0yqMd9lvynXLAU9eR5wQ/e5XOO8pTHprIHyoZCQ=="
                 sparkle:os="macos"
-                length="51425299"
+                length="52746816"
                 type="application/octet-stream" />
         </item>
 
@@ -24,15 +24,15 @@
         <!-- Staging Windows updates: separate feed `appcast-staging.xml` (same release repo) so
              WinSparkle does not see two windows enclosures for the same app version. -->
         <item>
-            <title>Version 1.0.0+13</title>
-            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+13</sparkle:releaseNotesLink>
+            <title>Version 1.0.0+14</title>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+14</sparkle:releaseNotesLink>
             <pubDate>Thu, 6 Aug 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows.exe"
-                sparkle:dsaSignature="MD0CHQCuX/ITZP0RugNaA8RIZ/mvEF5qLFaiKJxbXZhuAhwg1It0ec5HTOAbbQKzjmDx5aW0BWM2HD6Tj/l+"
+                sparkle:dsaSignature="REPLACE_WITH_WINDOWS_SIGNATURE"
                 sparkle:version="1.0.0+1"
                 sparkle:os="windows"
-                length="34668920"
+                length="0"
                 type="application/octet-stream" />
         </item>
 
