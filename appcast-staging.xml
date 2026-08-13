@@ -5,15 +5,15 @@
         <description>Staging Windows updates for Emrys Vendor testers</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0+14</title>
-            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+14</sparkle:releaseNotesLink>
-            <pubDate>Thu, 6 Aug 2026 00:00:00 +0000</pubDate>
+            <title>Version 1.0.0+15</title>
+            <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.0+15</sparkle:releaseNotesLink>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows-staging.exe"
-                sparkle:dsaSignature="MD0CHQCXd52d3xMs6FsqrOGka9Mc1HUIttjbl1zHsHvkAhxmWsHK6UvWMgs8Z5wG9lRIZeOvMGs5psXPHKKb"
-                sparkle:version="1.0.0+14"
+                sparkle:dsaSignature="MDwCHHIfdZ67p87tAjkzGVN3ECfgH6JyuZBqFJwSwbACHEOgkDDUHxh4Z0xlSkZIq6F/tfQJe645yXy1ey8="
+                sparkle:version="1.0.0+15"
                 sparkle:os="windows"
-                length="34666270"
+                length="34685015"
                 type="application/octet-stream" />
         </item>
     </channel>
