@@ -7,13 +7,13 @@
         <item>
             <title>Version 1.0.4+27</title>
             <sparkle:releaseNotesLink>https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/tag/v1.0.4+27</sparkle:releaseNotesLink>
-            <pubDate>Sun, 1 Nov 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 4 Nov 2026 00:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/polymorphlabs/emrys-vendor-mobile-release/releases/latest/download/emrys_vendor-windows-staging.exe"
-                sparkle:dsaSignature="MDwCHE/qs2Se+qvVkMUL9Mf88PsnLebtz39qAW+vy8YCHBe7ky0+m/EUYLd50yrIJBVqLkAuxE3Pbih2YiI="
+                sparkle:dsaSignature="MDwCHAa4h8misb2p3WZZJfjfbZ7N0fBnxBDV7CqoBOMCHBHUALtI8QqAIEjPtLs//OqUkAbKr6LqFIfUJfo="
                 sparkle:version="1.0.4+27"
                 sparkle:os="windows"
-                length="34973672"
+                length="34974550"
                 type="application/octet-stream" />
         </item>
     </channel>
